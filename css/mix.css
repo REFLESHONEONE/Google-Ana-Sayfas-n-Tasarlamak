@@ -1,0 +1,63 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  width: 1200px;
+  margin: 0 auto;
+  padding: 0;
+}
+img {
+  margin: 70px;
+  width: 35%;
+}
+.bt-1 {
+  border: 3px solid gray;
+  width: 45%;
+}
+.bt-1:hover {
+  background-color: white;
+}
+.btn {
+  float: left;
+  background-color: white;
+  border: 3px solid gray;
+  margin-right: 5px;
+  margin-left: 6px;
+  padding: 7px;
+  color: white;
+  border-radius: 6px;
+}
+.a-a {
+  color: gray;
+  text-transform: capitalize;
+  text-decoration: none;
+}
+.all {
+  background-color: grey;
+}
+.clear {
+  content: "";
+  clear: both;
+}
+
+/* cards-blog */
+.card {
+  float: left;
+  background-color: crimson;
+  color: white;
+  font-size: 23px;
+  margin-left: 3px;
+  padding: 17px;
+  text-align: center;
+}
+/* cards - renkler */
+.yel {
+  background-color: aqua;
+}
+.yell {
+  background-color: aquamarine;
+}
+.ye-l {
+  background-color: cadetblue;
+}
