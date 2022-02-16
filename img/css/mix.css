@@ -1,0 +1,92 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 98%;
+  margin: 20px;
+}
+
+.about-store .dow-1 {
+  margin: 15px;
+  text-decoration: none;
+  text-transform: capitalize;
+  color: grey;
+  font-size: 23px;
+  float: left;
+  font-weight: 600;
+  font-family: Courier, monospace;
+}
+.gm-img-sing .dow-1 {
+  text-decoration: none;
+  text-transform: capitalize;
+  color: grey;
+  font-size: 23px;
+  margin: 25px;
+  float: left;
+  font-weight: 600;
+  font-family: Courier, monospace;
+}
+.about-store {
+  float: left;
+}
+.gm-img-sing {
+  /* display: block; */
+  float: right;
+}
+.gm-img-sing .sk-1 {
+  background-color: #2666cf;
+  padding: 8px;
+  color: white;
+}
+
+.dow-1:hover {
+  text-decoration: underline;
+}
+.gm-img-sing .sk-1:hover {
+  text-decoration: none;
+}
+.rs-img {
+  display: inline-block;
+  margin-top: 11%;
+  margin-left: 33%;
+}
+
+.yn-1 {
+  margin: 0 auto;
+  width: 500px;
+}
+input {
+  border: 1px solid #efefef;
+  width: 800px;
+  height: 60px;
+  margin-left: -15%;
+  border-radius: 40px;
+  margin-bottom: 5%;
+  font-weight: 300;
+  box-shadow: 5px 3px #efefef;
+}
+input:hover {
+  box-shadow: 7px 5px 15px #efefef;
+}
+.chr a {
+  display: block;
+  float: right;
+  color: crimson;
+  margin-top: 580px;
+  margin-right: 50px;
+  background-color: white;
+  border-radius: 33px;
+  box-shadow: 3px 6px 13px #d1d1d1;
+  color: #2666cf;
+  text-transform: capitalize;
+  text-align: center;
+  text-decoration: none;
+  padding: 11px;
+  width: 150px;
+  font-weight: 400;
+}
+.chr a:hover {
+  text-decoration: underline;
+}
